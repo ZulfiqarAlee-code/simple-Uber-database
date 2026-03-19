@@ -12,6 +12,10 @@ It demonstrates real-world database concepts including:
 * Real-world data simulation
 
 ---
+##  ER Diagram
+![Database Diagram](uber.png)
+
+---
 
 ## 🧱 Database Schema
 
